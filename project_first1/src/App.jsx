@@ -1,5 +1,9 @@
+import Header from "./components/header.jsx";
+
 export default function App(){
     return(
-        <h1>fsfok</h1>
+        <>
+            <Header />
+        </>
     );
 }
